@@ -1,9 +1,10 @@
 👋 Hi, I’m Duy Pham
 ---
 I am a Junior student at WSU, majoring in Computer Science:
-- 👀 I’m interested in Software Engineer, Web Development, Backend Development, Deep Learning, Machine Learning.
-- 🌱 I typically use C/C++, Python, Java, JavaScript.
-- ✨ Frontend: React-Redux, Angular-NgRx | Backend: Django, Flask, Spring framework, Spring boot, NodeJS, ExpressJS.
+- 👀 I’m interested in Software Engineer, Web Development, Fullstack Development, Deployment, Cloud Computing, Deep Learning, Machine Learning.
+- 🌱 I typically use C/C++, Python, Java, JavaScript, TypeScript.
+- ✨ Frontend: React-Redux, Angular-NgRx | Backend: Spring boot, NodeJS, ExpressJS, Django, Flask, Flutter.
+- My portfolio: https://xn--duyphm-0c8b.com
 - 📫 How to reach me: 
     * Email: nhatduy0383@gmail.com
     * LinkedIn: linkedin.com/in/duypham33
